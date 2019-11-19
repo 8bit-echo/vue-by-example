@@ -13,6 +13,8 @@
 
   export default {
     /** All Vue Components will follow the data structure below, none are required and you can use only what you need. */
+    
+    /* When using the keyword, "this", it will always refer to un-nested functions or data inside this component. */
     name: "ComponentStructure",
 
     props: [],
