@@ -1,4 +1,7 @@
-# vue-by-example
+# Vue by Example
+
+## Demo 
+[https://8bit-echo.github.io/vue-by-example/](https://8bit-echo.github.io/vue-by-example/)
 
 ## Project setup
 ```
